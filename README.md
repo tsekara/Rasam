@@ -18,6 +18,7 @@ Ingredients
   - Garlic Pods
   - Ginger
   - Pressure Cooker
+  - Optional: curry leaves 
 
   `code can be highlighted with backticks`
 
