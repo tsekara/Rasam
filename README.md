@@ -6,10 +6,11 @@ Also how to garnish the rasam
 Ingredients
 
   - Tamarind
+    - lemon sized
   - Water
   - Rasam powder
   - Tomato
-  - [and source] (httpps://www.youtube.com)
+  - [and source] (www.youtube.com)
   
   `code can be highlighted with backticks`
   
