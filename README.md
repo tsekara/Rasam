@@ -16,10 +16,15 @@ Ingredients
   - lemon
   - Lentils
   - Garlic Pods
-  - [and source] (www.youtube.com)
-
+  -
+  - Pressure Cooker
+  
   `code can be highlighted with backticks`
 
+# Syntax for inserting the youtube
+[and source] (www.youtube.com)
+
+#Code
   ```Python
   for file in filenames:
   print(file)
