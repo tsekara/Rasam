@@ -21,7 +21,7 @@ Ingredients
   
   `code can be highlighted with backticks`
 
-# Syntax for inserting the youtube
+# Syntax for inserting the links
 [and source] (www.youtube.com)
 
 #Code
