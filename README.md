@@ -14,6 +14,8 @@ Ingredients
   - Pepper
   - Turmeric
   - lemon
+  - Lentils
+  - Garlic Pods
   - [and source] (www.youtube.com)
 
   `code can be highlighted with backticks`
