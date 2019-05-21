@@ -16,9 +16,9 @@ Ingredients
   - lemon
   - Lentils
   - Garlic Pods
-  -
+  - Ginger
   - Pressure Cooker
-  
+
   `code can be highlighted with backticks`
 
 # Syntax for inserting the links
